@@ -1,0 +1,9 @@
+PROYECTO: EJERCICIOS DE JAVASCRIPT CON BOOTSTRAP
+
+1. Descomprime la carpeta ejercicios_bootstrap.
+2. Abre index.html en tu navegador (o desde AMPPS/servidor local).
+3. En la página principal, selecciona el botón del ejercicio.
+4. Dentro de cada ejercicio puedes regresar a la página principal o usar Anterior/Siguiente.
+
+Se utiliza Bootstrap 5.3.3 desde CDN, por lo que necesitas conexión a internet para que cargue el diseño.
+Todos los archivos HTML y estilos.css deben permanecer en la misma carpeta.

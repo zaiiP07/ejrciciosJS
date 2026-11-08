@@ -1,0 +1,12 @@
+
+:root{--azul:#123b5d;--cian:#dff5f8;--azul2:#2d7895;--fondo:#f3f8fb;}
+body{background:linear-gradient(135deg,#edf7fa,#f7f9fc);min-height:100vh;color:#203647;}
+.navbar{background:#123b5d;}
+.navbar-brand,.nav-link{color:#fff!important;}
+.hero{background:linear-gradient(135deg,#123b5d,#2d7895);color:white;border-radius:22px;padding:2.5rem;}
+.card{border:0;border-radius:18px;box-shadow:0 6px 22px rgba(18,59,93,.09);height:100%;}
+.card-header{background:#dff5f8;color:#123b5d;border:0;border-radius:18px 18px 0 0!important;font-weight:700;}
+.btn-primary{background:#176b87;border-color:#176b87;}
+.btn-primary:hover{background:#104d68;border-color:#104d68;}
+.resultado{background:#f0f8fb;border:1px solid #c5e6ee;border-radius:12px;padding:1rem;min-height:70px;line-height:1.8;}
+footer{color:#607887;}
